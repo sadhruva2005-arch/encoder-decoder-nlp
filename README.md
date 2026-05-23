@@ -1,5 +1,5 @@
 # Encoder-Decoder NLP Suite
-**NMIMS MPSTME · Advanced ML · Experiment 6 · Dr Ami Munshi**
+**NMIMS MPSTME · Advanced ML ·  
 
 | Task | Description | Model |
 |------|-------------|-------|
